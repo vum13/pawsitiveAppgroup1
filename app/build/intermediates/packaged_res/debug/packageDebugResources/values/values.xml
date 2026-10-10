@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FFF6E9</color>
+    <string name="app_name">Pawsitive Pet Academy</string>
+    <style name="Theme.PawsitivePetAcademy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
